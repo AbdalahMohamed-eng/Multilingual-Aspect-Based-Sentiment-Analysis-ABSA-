@@ -1,0 +1,21 @@
+# PyTorch
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Data
+*.csv
+*.xlsx
+*.npz
+*.npy
+*.zip
